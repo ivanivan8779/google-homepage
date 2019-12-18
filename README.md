@@ -1,0 +1,1 @@
+Hey! this project will reflect my ability to make web pages, I have to keep practicing cuz it's hard to remeber everything about the commands hahahaha I will try to crete a google web page using HTML and CSS good luck!
